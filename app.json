@@ -1,0 +1,12 @@
+{
+  "name": "ReportOnePlus",
+  "displayName": "ReportOnePlus",
+  "expo": {
+    "name": "ReportOnePlus",
+    "slug": "ReportOnePlus",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
